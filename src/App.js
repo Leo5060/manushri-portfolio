@@ -86,6 +86,7 @@ function App() {
             <ul>
               <li>Ongoing Internship at Cognifyz Technologies</li>
               <li>Active member of Creovators Club and IGEN Club</li>
+              <li>Awarded for presenting the technical paper “Mining Worker Safety Helmet using Arduino” at a national-level technical symposium, recognizing innovation and technical proficiency in embedded systems and IoT.</li>
             </ul>
           </section>
 
@@ -94,8 +95,11 @@ function App() {
             <h2>📜 Certificates</h2>
             <ul>
               <li>Python Programming Certification</li>
-              <li>Front-End Development Projects</li>
+              <li>Full Stack Web Development with React JS, Angular, and Node JS</li>
               <li>Cyber Security Fundamentals (Coursera)</li>
+              <li>DSA using Java </li>
+              <li>Python Pandas basic course</li>
+              <li>Introduction to Artificial Intelligence</li>
             </ul>
           </section>
 
