@@ -4,9 +4,10 @@ function Home() {
   return (
     <div>
       <h2>Welcome to My Portfolio</h2>
-      <p>Hi, I'm Kurni Manushri, a passionate software engineer!</p>
+      <p>Hi, I'm Kurni Manushri.</p>
     </div>
   );
 }
 
 export default Home;
+  

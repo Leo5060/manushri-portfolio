@@ -49,8 +49,7 @@ function App() {
           <section id="home">
             <h1>Welcome to My Portfolio</h1>
             <p>
-              Hi, I'm <strong>Kurni Manushri</strong>, a passionate software
-              engineer currently pursuing B.Tech in Computer Science and
+              Hi, I'm <strong>Kurni Manushri</strong>, currently pursuing B.Tech in Computer Science and
               Engineering at Presidency University.
             </p>
             <p>
